@@ -14,7 +14,7 @@ public class LargestNumbers {
 		} else if (number2 > number1 && number2 > number3) {
 			System.out.println("Largest Number is :" + number2);
 		} else {
-			System.out.println("Largest Number is :" + number3);
+			System.out.println("Largest Number is :" + number3 );
 		}
 	}
 }
