@@ -10,7 +10,7 @@ public class EuclidDistance {
 		System.out.println("Enter Y Point");
 		int y = scanner.nextInt();
 		double distance = Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2));
-		System.out.println("The Euclidean distance is :" + distance);
+		System.out.println("The Euclidean distance is  :" + distance);
 	}
 
 }
