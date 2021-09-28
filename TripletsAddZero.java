@@ -30,7 +30,7 @@ public class TripletsAddZero {
 			}
 		}
 		if (isfound == false)
-			System.out.println(" not exist ");
+			System.out.println(" not exist  ");
 
 	}
 }
