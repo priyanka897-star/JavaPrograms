@@ -8,9 +8,9 @@ public class EvenOdd {
 		System.out.println("Enter The Number: ");
 		int number = scanner.nextInt();
 		if (number % 2 == 0) {
-			System.out.println(" Number is Even");
+			System.out.println(" Number is Even ");
 		} else {
-			System.out.println("Number is Odd");
+			System.out.println("Number is Odd ");
 		}
 	}
 
