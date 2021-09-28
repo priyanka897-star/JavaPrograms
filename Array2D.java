@@ -18,7 +18,7 @@ public class Array2D {
 			{
 				// Storing user input in a TwoDimensional Array
 				System.out.println(array[m][n]);
-				System.out.println("Enter element of array");
+				System.out.println("Enter Element of array");
 				int arrayelement = scanner.nextInt();
 				array[i][j] = arrayelement;
 
