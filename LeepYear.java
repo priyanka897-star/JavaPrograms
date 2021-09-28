@@ -10,8 +10,8 @@ public class LeepYear {
 		int year = scanner.nextInt();
 		final int LOWERLIMIT = 1000;
 		final int UPPERLIMIT = 9999;
-		if (year >= LOWERLIMIT && year <= UPPERLIMIT)
-			if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0)
+		if (year >= LOWERLIMIT && year <= UPPERLIMIT )
+			if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0 )
 				System.out.println(year + " is a Leap Year");
 			else
 				System.out.println(year + " is not a Leap Year");
