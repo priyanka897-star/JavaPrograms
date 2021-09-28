@@ -10,7 +10,7 @@ public class PowerOfTwo {
 		if(number > 0 && number < 31)
 		{
 		double powerValue = Math.pow(2, number);
-		System.out.println(powerValue);
+		System.out.println(powerValue );
 		
 		for(int i = 0; i <= number; i++)
 		{
