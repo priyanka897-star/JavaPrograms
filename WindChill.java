@@ -15,7 +15,7 @@ public class WindChill {
 			windChill = 35.74 + (0.6215 * temperature) + (((0.4275 * temperature) - 35.75) * Math.pow(windSpeed, 0.16));
 			System.out.println("The WindChill value is :" + windChill);
 		} else {
-			System.out.println("Enter Valid Tempreture or Wind Speed");
+			System.out.println("Enter Valid Tempreture or Wind Speed" );
 		}
 	}
 
