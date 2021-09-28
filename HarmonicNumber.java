@@ -10,8 +10,7 @@ public class HarmonicNumber {
 			sum = sum + 1 / i;
 		return sum;
 	}
-
-	// Driven Program
+        // Driven Program
 	public static void main(String args[]) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter a Number :");
